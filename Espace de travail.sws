@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.0.0.2613"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local>
+		<Model Expanded="Yes" ID="{13782EC6-555E-40DA-B964-FE48D28010F7}" Name="BDD transport de marchandises" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="MCD transport de marchandises.mcd"/>
+		<Model Expanded="Yes" ID="{13782EC6-555E-40DA-B964-FE48D28010F7}" Name="BDD transport de marchandises" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="MCD transport de marchandise.mcd"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
