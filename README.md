@@ -8,10 +8,10 @@ Ce dépôt contient l'ensemble des fichiers réalisés dans le cadre de la SAÉ 
 
 ## Contenu du dépôt
 
-- transport de marchandise.mcd : Modèle Conceptuel de Données (MCD)
-- transport de marchandises.bcd : Fichier source du MCD 
-- transport de marchandises.mld : Modèle Logique de Données (MLD)
-- Espace de travail.sws : Espace de travail du logiciel de modélisation
+- transport_de_marchandise.mcd : Modèle Conceptuel de Données (MCD)
+- transport_de_marchandises.bcd : Fichier source du MCD 
+- transport_de_marchandises.mld : Modèle Logique de Données (MLD)
+- Espace_de_travail.sws : Espace de travail du logiciel de modélisation
 - RapportBDD.pdf : Rapport complet du projet
 
 ## Structure de la base de données
