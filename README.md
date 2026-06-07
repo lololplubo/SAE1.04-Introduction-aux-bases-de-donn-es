@@ -7,7 +7,11 @@
 Ce dépôt contient l'ensemble des fichiers réalisés dans le cadre de la SAÉ 1.04 portant sur l'introduction aux bases de données. L'objectif était de modéliser et d'implémenter le système d'information d'une entreprise de transport de marchandises, depuis la commande client jusqu'à la réalisation du trajet.
 
 ## Contenu du dépôt
-FichierDescriptionMCD transport de marchandise.mcdModèle Conceptuel de Données (MCD)MCD transport de marchandises.bcdFichier source du MCDBDD transport de marchandises.mldModèle Logique de Données (MLD)Espace de travail.swsEspace de travail du logiciel de modélisationRapport BDD.pdfRapport complet du projet
+transport de marchandise.mcd : Modèle Conceptuel de Données (MCD)
+MCD transport de marchandises.bcd : Fichier source du MCD 
+transport de marchandises.mld : Modèle Logique de Données (MLD)
+Espace de travail.sws : Espace de travail du logiciel de modélisation
+RapportBDD.pdf : Rapport complet du projet
 
 ## Structure de la base de données
 La base modélise 7 tables interconnectées :
